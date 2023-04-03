@@ -1,4 +1,4 @@
-package br.com.praticando.webflux.execucoes;
+package br.com.praticando.webflux;
 
 import java.io.IOException;
 import java.nio.file.Files;
