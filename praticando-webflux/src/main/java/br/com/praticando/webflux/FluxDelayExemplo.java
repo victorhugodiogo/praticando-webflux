@@ -5,7 +5,7 @@ import reactor.core.publisher.Flux;
 import reactor.core.scheduler.Scheduler;
 import reactor.core.scheduler.Schedulers;
 
-public class FluxDelayexemplo {
+public class FluxDelayExemplo {
   public static void main(String[] args) {
    
     
